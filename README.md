@@ -12,3 +12,7 @@
 ### AWG to mm/mm<sup>2</sup> conversion
 
 * [RapidTables](https://www.rapidtables.com/calc/wire/awg-to-mm.html)
+
+### Inch to mm conversion
+
+* [RapidTables](https://www.rapidtables.com/convert/length/inch-to-mm.html)
