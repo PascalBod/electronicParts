@@ -1,5 +1,12 @@
 # Electronic parts
 
+## Connectors
+
+### Pluggable terminal blocks
+
+* Wago 221-412 - 2 ways, 24AWG to 12AWG, 4 mm², push in lock, 32 A
+  * [Farnell](https://fr.farnell.com/en-FR/wago/221-412/terminal-block-pluggable-2pos/dp/2534732) - 0.448 €
+
 ## Wire and cable
 
 ### Hook-up cable
