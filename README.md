@@ -10,6 +10,8 @@
 
 * MIKROE-513 - Jumper Wires male to male - 15 cm
   * [Mouser](https://www.mouser.fr/ProductDetail/Mikroe/MIKROE-513?qs=7CTBMF0jTsHujVymHwDfAg%3D%3D)
+* Sparkfun PRT-10364 - Jumper Wire - 0.1" - 4-pin - 4" long
+  * [Mouser](https://www.mouser.fr/ProductDetail/SparkFun/PRT-10364?qs=WyAARYrbSnYsI%2FAYlbmOdA%3D%3D)
 * FTDI TTL-232R-3V3 - USB - RS232 - 3.3 V - 0.1" header
   * [Mouser](https://www.mouser.fr/ProductDetail/FTDI/TTL-232R-3V3?qs=Xb8IjHhkxj627GFcejHp0Q%3D%3D)
 
